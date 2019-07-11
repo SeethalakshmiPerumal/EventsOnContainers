@@ -1,0 +1,14 @@
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\bin\Debug\netcoreapp2.1\EventCatalogAPI.deps.json
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\bin\Debug\netcoreapp2.1\EventCatalogAPI.runtimeconfig.json
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\bin\Debug\netcoreapp2.1\EventCatalogAPI.runtimeconfig.dev.json
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\bin\Debug\netcoreapp2.1\EventCatalogAPI.dll
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\bin\Debug\netcoreapp2.1\EventCatalogAPI.pdb
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.RazorAssemblyInfo.cache
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.RazorAssemblyInfo.cs
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.AssemblyInfoInputs.cache
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.AssemblyInfo.cs
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.dll
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.pdb
+C:\Users\seeth\source\repos\EventsOnContainers\EventCatalogAPI\obj\Debug\netcoreapp2.1\EventCatalogAPI.csprojAssemblyReference.cache
